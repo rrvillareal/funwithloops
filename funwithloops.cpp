@@ -1,6 +1,3 @@
-//Robert Villareal
-//CWID: 890259286
-
 #include <iostream>
 using namespace std;
 
